@@ -11,19 +11,55 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+🙋‍♀️ Vivify Healthcare works toward building sustainable,  affordable and comprehensive  healthcare platform for care providers and care users. 
+
+Empowering Healthcare,Transforming Outcomes.
+
+Vivify Healthcare is driven by a profound vision for the future. We are dedicated to crafting an expansive ecosystem in healthcare that not only meets today’s needs but sustains and thrives for generations to come. We envision a world where healthcare is not just a service but a holistic experience, accessible to all, and economically viable.
+
+👩‍💻 Useful resources
+
+* [Tech-Stack Connect Program](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7077616704498896896) |
+* [Blogs](https://vivifyhealthcare.com/blogs/)
+* [Discussions](https://github.com/orgs/vivifyhealthcare/discussions)
+* [Discord](https://discord.gg/N6jTp6CXXw)
+* [Website](https://www.vivifyhealthcare.com)
+* [Facebook]()
+* [Twiiter]()
+* [Linkedin]()
+
+🧙 Product
+
+* [Lifeaazy]()
+* [Lifeeazy Pro]()
+
+🌈 Contribution guidelines - We love your input! We want to make contributing to [Tech-Stack Connect Program](https://github.com/orgs/vivifyhealthcare/projects/6) as easy and transparent as possible, whether it's:
+
+* Reporting a bug
+* Discussing the current state of the code
+* Submitting a fix
+* Proposing new features
+* Becoming a maintainer
+
+<!-- 🍿 Fun facts - -->
+
+
+<img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <!-- 
 [![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/vivifyhealthcare/awesome-github-profile-readme-templates/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/vivifyhealthcare/awesome-github-profile-readme-templates/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/vivifyhealthcare/awesome-github-profile-readme-templates/network) -->
-
-
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/vivifyhealthcare.svg?style=social&label=Followers)](https://github.com/vivifyhealthcare?tab=followers) -->
 
 <!-- <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> -->
+
+
+
+
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
