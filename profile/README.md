@@ -56,10 +56,10 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=participants&period=past_28_days&role=commit_authors&owner_id=87693177" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&period=past_12_months&role=commit_authors&owner_id=87693177" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=participants&period=past_28_days&role=commit_authors&owner_id=87693177&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="Geographical Distribution of vivifyhealthcare" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=participants&period=past_28_days&role=commit_authors&owner_id=87693177&image_size=4x7&color_scheme=light" width="657" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&period=past_12_months&role=commit_authors&owner_id=87693177&image_size=4x7&color_scheme=dark" width="657" height="auto">
+    <img alt="Geographical Distribution of vivifyhealthcare" src="https://next.ossinsight.io/widgets/official/compose-org-activity-map/thumbnail.png?activity=stars&period=past_12_months&role=commit_authors&owner_id=87693177&image_size=4x7&color_scheme=light" width="657" height="auto">
   </picture>
 </a>
 
