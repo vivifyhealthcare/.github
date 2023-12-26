@@ -34,7 +34,22 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp,py,pytorch,django,nodejs,angular,react,materialui,react,html,vscode,bootstrap,css,html,flutter,docker,kubernetes,gradle,jenkins,mongodb,dynamodb,firebase,mysql,postgres,linux,postman,kafka,rabbitmq,nginx,grafana,prometheus,discord,figma,ai,xd&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp&perline=14&theme=light" />
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,django,nodejs,angular,react,materialui,react,html,bootstrap,css,html,flutter&perline=14&theme=light" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gradle,jenkins&perline=14&theme=light" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,dynamodb,firebase,mysql,postgres&perline=14&theme=light" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,postman,kafka,rabbitmq,nginx,grafana,prometheus,discord&perline=14&theme=light" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,xd&perline=14&theme=light" />
   </a>
 </p>
 
