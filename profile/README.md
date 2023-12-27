@@ -24,14 +24,14 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
 * [Discussions](https://github.com/orgs/vivifyhealthcare/discussions)
 * [Discord](https://discord.gg/N6jTp6CXXw)
 * [Website](https://www.vivifyhealthcare.com)
-* [Facebook]()
-* [Twiiter]()
-* [Linkedin]()
+* [Facebook](https://www.facebook.com/vivifyhcare)
+* [Twiiter](https://twitter.com/vivifyhcare)
+* [Linkedin](https://www.linkedin.com/company/vivifyhealthcare/)
 
 🧙 Product
 
-* [Lifeaazy]()
-* [Lifeeazy Pro]()
+* [Lifeaazy](https://www.vivifyhealthcare.com)
+* [Lifeeazy Pro](https://www.vivifyhealthcare.com)
 
 🌈 Contribution guidelines - We love your input! We want to make contributing to [Tech-Stack Connect Program](https://github.com/orgs/vivifyhealthcare/projects/6) as easy and transparent as possible, whether it's:
 
@@ -56,11 +56,6 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a> -->
 
-
-
-
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -69,24 +64,42 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
 </div>
 <!--tech stack icons-->
 <p align="center">
+  
+  <br> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp&perline=14&theme=light" />
+  </br>
+  
+  <br>
   </a>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,django,nodejs,angular,react,materialui,react,html,bootstrap,css,html,flutter&perline=14&theme=light" />
   </a>
+  </br>
+  
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,gradle,jenkins&perline=14&theme=light" />
   </a>
+  </br>
+  
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,dynamodb,firebase,mysql,postgres&perline=14&theme=light" />
   </a>
+  </br>
+  
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,postman,kafka,rabbitmq,nginx,grafana,prometheus,discord&perline=14&theme=light" />
   </a>
+  </br>
+  
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ai,xd&perline=14&theme=light" />
   </a>
+  </br>
 </p>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com): <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
