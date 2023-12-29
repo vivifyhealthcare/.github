@@ -67,18 +67,24 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
   
   <br> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp&perline=14&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman&perline=14&theme=light" />
+    </a>
   </br>
+
+<br> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=14&theme=light" />
+    </a>
+  </br>
+
   
   <br>
-  </a>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,django,nodejs&perline=14&theme=light" />
   </a>
   </br>
   
   <br>
-  </a>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,angular,react,materialui,html,scss&perline=14&theme=light" />
   </a>
@@ -86,7 +92,7 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
 
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gradle,jenkins&perline=14&theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gradle&perline=14&theme=light" />
   </a>
   </br>
   
@@ -98,7 +104,7 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
   
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,postman,kafka,rabbitmq,nginx,grafana,prometheus,discord&perline=14&theme=light" />
+    <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,nginx,grafana,prometheus,discord&perline=14&theme=light" />
   </a>
   </br>
   
