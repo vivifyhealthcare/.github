@@ -73,10 +73,17 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
   <br>
   </a>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,django,nodejs,angular,react,materialui,react,html,bootstrap,css,html,flutter&perline=14&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,django,nodejs&perline=14&theme=light" />
   </a>
   </br>
   
+  <br>
+  </a>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,materialui,react,html,bootstrap,css,html,flutter&perline=14&theme=light" />
+  </a>
+  </br>
+
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,gradle,jenkins&perline=14&theme=light" />
