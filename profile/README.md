@@ -19,7 +19,7 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
 
 👩‍💻 Useful resources
 
-* [Tech-Stack Connect Program](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7077616704498896896) |
+* [Tech-Stack Connect Program](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7077616704498896896) 
 * [Blogs](https://vivifyhealthcare.com/blogs/)
 * [Discussions](https://github.com/orgs/vivifyhealthcare/discussions)
 * [Discord](https://discord.gg/N6jTp6CXXw)
