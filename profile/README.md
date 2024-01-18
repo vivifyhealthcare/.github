@@ -25,8 +25,8 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
 * [Discord](https://discord.gg/N6jTp6CXXw)
 * [Website](https://www.vivifyhealthcare.com)
 * [Facebook](https://www.facebook.com/vivifyhcare)
-* [Twiiter](https://twitter.com/vivifyhcare)
-* [Linkedin](https://www.linkedin.com/company/vivifyhealthcare/)
+* [Twitter](https://twitter.com/vivifyhcare)
+* [LinkedIn](https://www.linkedin.com/company/vivifyhealthcare/)
 
 🧙 Product
 
