@@ -30,7 +30,7 @@ Vivify Healthcare is driven by a profound vision for the future. We are dedicate
 
 🧙 Product
 
-* [Lifeaazy](https://www.vivifyhealthcare.com)
+* [Lifeeazy](https://www.vivifyhealthcare.com)
 * [Lifeeazy Pro](https://www.vivifyhealthcare.com)
 
 🌈 Contribution guidelines - We love your input! We want to make contributing to [Tech-Stack Connect Program](https://github.com/orgs/vivifyhealthcare/projects/6) as easy and transparent as possible, whether it's:
